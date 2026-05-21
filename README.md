@@ -61,6 +61,7 @@ Perfect for small businesses, local stores and entrepreneurs looking for a fast 
 ## Video Demo
 
 Coming soon.
+https://youtu.be/K3wGum3I_v4?si=Ij0T26UIX9n2njz0
 
 ---
 
