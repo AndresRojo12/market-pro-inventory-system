@@ -1,4 +1,3 @@
-import { useState } from "react";
 import dashboardImg from "./assets/dashboard.png";
 import productsImg from "./assets/products.png";
 import ventaImg from "./assets/venta.png";
