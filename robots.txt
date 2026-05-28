@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://andresrojo12.github.io/market-pro-inventory-system/sitemap.xml
