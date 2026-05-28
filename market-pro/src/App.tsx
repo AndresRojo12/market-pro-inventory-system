@@ -150,7 +150,7 @@ function App() {
         <div className="container">
           <p>
             © {new Date().getFullYear()} Market Pro — Desktop Inventory &
-            Billing System
+            Billing Systems
           </p>
         </div>
       </footer>
